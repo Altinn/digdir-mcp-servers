@@ -1,2 +1,2 @@
-# digdir-mcp-servers
-Model Context Protocol Servers
+# Digdir Model Context Protocol Servers
+
